@@ -1,0 +1,6 @@
+oracle:
+  server:
+      url: jdbc:oracle:thin:@localhost:1521:oracle
+      username: root
+      password: root
+      driverClassName: oracle.jdbc.driver.OracleDriver
